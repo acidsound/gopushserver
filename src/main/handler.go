@@ -1,10 +1,3 @@
-/**
- * Created with IntelliJ IDEA.
- * User: acidsound
- * Date: 13. 3. 10.
- * Time: 오후 8:58
- * To change this template use File | Settings | File Templates.
- */
 package main
 
 import (
