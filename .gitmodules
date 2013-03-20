@@ -1,0 +1,6 @@
+[submodule "github.com/googollee/go-gcm"]
+	path = github.com/googollee/go-gcm
+	url = http://github.com/googollee/go-gcm.git
+[submodule "github.com/pranavraja/apns"]
+	path = github.com/pranavraja/apns
+	url = http://github.com/pranavraja/apns.git
